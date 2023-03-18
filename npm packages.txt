@@ -5,3 +5,8 @@ express
 @babel/cli
 @babel/plugin-transform-runtime
 @babel/runtime
+
+backend?
+
+body-parser
+--save-dev nodemon
